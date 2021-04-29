@@ -1,4 +1,5 @@
 def multipleByTwo(n):
-    return n*2
+    result = n*2
+    return results
 
 multipleByTwo(4)
